@@ -1,7 +1,12 @@
 #BlueJ class context
 comment0.target=Elephant
-comment0.text=\n\ Write\ a\ description\ of\ class\ Elephant\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment0.text=\n\ The\ Elephant,\ our\ hero.\n\ \n\ @author\ Tishaani\ Ragavan\ \n\ @version\ May\ 2022\n
 comment1.params=
-comment1.target=void\ act()
-comment1.text=\n\ Act\ -\ do\ whatever\ the\ Elephant\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
-numComments=2
+comment1.target=Elephant()
+comment1.text=\n\ Contrustor\ \=\ The\ code\ that\ \ gets\ run\ one\ time\ when\ objecct\ is\ created\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ eat()
+comment3.text=\n\ Eat\ the\ apple\ and\ spawn\ new\ apple\ if\ easten\n
+numComments=4
