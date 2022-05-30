@@ -18,9 +18,9 @@ public class TitleScreen extends World
         // Create a new world with 600x400 cells with a cell size of 1x1 pixels.
         super(600, 400, 1); 
         
-        addObject(titleLabel, getWidth()/2, 200);
+        addObject(titleLabel, getWidth()/2, 180);
         Label instructionLabel = new Label("Press <space> to begin", 45);
-        addObject (instructionLabel, 300, 260);
+        addObject (instructionLabel, 300, 250);
         Label directionLabel = new Label ("Use < and > to move", 35);
         addObject (directionLabel, 300, 310);
     }
