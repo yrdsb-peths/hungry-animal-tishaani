@@ -1,7 +1,7 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
 /**
- * The Elephant, our hero.
+ * The Elephant, main character and hero.
  * 
  * @author Tishaani Ragavan 
  * @version May 2022
