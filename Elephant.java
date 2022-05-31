@@ -20,6 +20,7 @@ public class Elephant extends Actor
     public Elephant()
     {
         setImage(idle); 
+        idle.scale(100,100);
     }
     
     

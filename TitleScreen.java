@@ -21,7 +21,7 @@ public class TitleScreen extends World
         addObject(titleLabel, getWidth()/2, 180);
         Label instructionLabel = new Label("Press <space> to begin", 45);
         addObject (instructionLabel, 300, 250);
-        Label directionLabel = new Label ("Use < and > to move", 35);
+        Label directionLabel = new Label ("Use < to move left and, > to move right ", 30);
         addObject (directionLabel, 300, 310);
     }
     
