@@ -21,6 +21,7 @@ public class Elephant extends Actor
     {
         setImage(idle); 
         idle.scale(100,100);
+        
     }
     
     
@@ -34,8 +35,9 @@ public class Elephant extends Actor
        else if(Greenfoot.isKeyDown("right"))
        {
            move(1);
+           
        }
-       
+      
        //Remove apple if elephant eats it
        eat();
     }
